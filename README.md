@@ -92,6 +92,10 @@ npm run build
 - Add a lightweight CMS for schedules, plans, and announcements
 - Add performance monitoring and conversion analytics with consent controls
 
+## Builder profile
+
+Built by [Aditya Jaiswal](https://github.com/adityajaiswal1724), a Full-Stack Developer and AI/ML & Automation Engineer. This project demonstrates the web-development side of a broader portfolio spanning applied machine learning, Generative AI, LLM agents, voice-calling systems, and workflow automation.
+
 ---
 
 <div align="center">
